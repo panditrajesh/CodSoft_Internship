@@ -7,4 +7,4 @@
 **Task 2: Portfolio Webiste**
     _This was my second task to make a personal portfolio website using HTML,CSS and JavaScript. I have successfully complete it within time._
 **Task 3: calculator**
-    _It was my third task to create a claculator using HTMl, CSS and JavaScript. It can perform basic mathematical operations like addition, substraction,multiplication and dividion_
+    _It was my third task to create a claculator using HTMl, CSS and JavaScript. It can perform basic mathematical operations like addition, substraction,multiplication and division_
